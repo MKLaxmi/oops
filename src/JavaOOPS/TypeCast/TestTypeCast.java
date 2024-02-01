@@ -13,4 +13,7 @@ public class TestTypeCast {
         Object o1 = (Object) n;
         System.out.println(o1.hashCode()+" "+n.hashCode()+" "+i.hashCode());
     }
+
+    public static class TypeCast1 {
+    }
 }
